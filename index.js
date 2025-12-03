@@ -20,7 +20,7 @@
             background-color: #f5f5f5;
         }
 
-        .container {
+        。container {
             display: flex;
             flex-direction: column;
             max-width: 1200px;
@@ -31,7 +31,7 @@
             overflow: hidden;
         }
 
-        .tabs {
+        。tabs {
             display: flex;
             background-color: #333;
         }
@@ -1137,3 +1137,4 @@
 </body>
 
 </html>
+
